@@ -1,0 +1,12 @@
+{
+  "name": "modulo-operacoes",
+  "version": "1.0.0",
+  "main": "dist/Operacoes.js",
+  "types": "dist/Operacoes.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
