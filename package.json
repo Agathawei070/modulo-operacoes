@@ -1,12 +1,14 @@
 {
   "name": "modulo-operacoes",
   "version": "1.0.0",
-  "main": "dist/Operacoes.js",
-  "types": "dist/Operacoes.d.ts",
+  "main": "out/Calculadora.js",
+  "types": "out/Calculadora.d.ts",
   "scripts": {
     "build": "tsc"
   },
-  "devDependencies": {
-    "typescript": "^5.0.0"
-  }
+  "files": [
+    "out"
+  ],
+  "author": "Agatha",
+  "license": "MIT"
 }
